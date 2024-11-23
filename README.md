@@ -2,8 +2,8 @@
 **Notebook LLM:**
 * Notebook LLM Research Summary [Podcast](https://notebooklm.google.com/notebook/1454b32d-612c-418e-85ed-3eef940bfc54/audio)
 * Research Notes 2024-11-23
-  * [2024-11-23 Briefing Summary](2024-11-23 Briefing Summary.md)
-  * 
+  * 2024-11-23 [Briefing Summary](https://github.com/ireland/GE2024/blob/62098172a65e55db953753dd341df734b81bfadb/2024-11-23%20Briefing%20Summary.md)
+  * 2024-11-23 [Party Positions on Key Topics](https://github.com/ireland/GE2024/blob/62098172a65e55db953753dd341df734b81bfadb/2024-11-23%20Party%20Positions%20on%20Key%20Topics.md)
 
 
 **Party Manifestos:**
