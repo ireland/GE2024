@@ -2,6 +2,8 @@
 **Notebook LLM:**
 * Notebook LLM Research Summary [Podcast](https://notebooklm.google.com/notebook/1454b32d-612c-418e-85ed-3eef940bfc54/audio)
 * Research Notes 2024-11-23
+  * [2024-11-23 Briefing Summary](2024-11-23 Briefing Summary.md)
+  * 
 
 
 **Party Manifestos:**
